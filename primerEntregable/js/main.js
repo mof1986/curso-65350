@@ -74,7 +74,7 @@ function menu() {
         break;
 
       case "3":
-        alert("¡Gracias por utilizar el simulador!"); //El usr selecciona la opción de salir.
+        alert("¡Gracias por utilizar el simulador!"); //Mensaje de despedida porque el usr selecciono salir.
         break;
 
       default:
